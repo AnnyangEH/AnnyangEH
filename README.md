@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noob Programmer!
+- 👋 Hiya , I’m Noob Programmer!
 - 👀 I’m interested in computer games(Overwatch, PUBG, Hearthstone)
 - 🌱 I’m currently learning Machinelearning with Python
 - 📫 How to reach me ... idk
